@@ -1,0 +1,10 @@
+C:\ОП лаби\Grafic\bin\Debug\Grafic.exe.config
+C:\ОП лаби\Grafic\bin\Debug\Grafic.exe
+C:\ОП лаби\Grafic\bin\Debug\Grafic.pdb
+C:\ОП лаби\Grafic\obj\Debug\Grafic.csproj.AssemblyReference.cache
+C:\ОП лаби\Grafic\obj\Debug\Grafic.Form1.resources
+C:\ОП лаби\Grafic\obj\Debug\Grafic.Properties.Resources.resources
+C:\ОП лаби\Grafic\obj\Debug\Grafic.csproj.GenerateResource.cache
+C:\ОП лаби\Grafic\obj\Debug\Grafic.csproj.CoreCompileInputs.cache
+C:\ОП лаби\Grafic\obj\Debug\Grafic.exe
+C:\ОП лаби\Grafic\obj\Debug\Grafic.pdb
